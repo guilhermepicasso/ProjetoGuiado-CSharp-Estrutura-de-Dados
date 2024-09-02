@@ -1,0 +1,14 @@
+/home/guipicasso/test/ProjetoGuiado/bin/Debug/net8.0/ProjetoGuiado
+/home/guipicasso/test/ProjetoGuiado/bin/Debug/net8.0/ProjetoGuiado.deps.json
+/home/guipicasso/test/ProjetoGuiado/bin/Debug/net8.0/ProjetoGuiado.runtimeconfig.json
+/home/guipicasso/test/ProjetoGuiado/bin/Debug/net8.0/ProjetoGuiado.dll
+/home/guipicasso/test/ProjetoGuiado/bin/Debug/net8.0/ProjetoGuiado.pdb
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ProjetoGuiado.GeneratedMSBuildEditorConfig.editorconfig
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ProjetoGuiado.AssemblyInfoInputs.cache
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ProjetoGuiado.AssemblyInfo.cs
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ProjetoGuiado.csproj.CoreCompileInputs.cache
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ProjetoGuiado.dll
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/refint/ProjetoGuiado.dll
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ProjetoGuiado.pdb
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ProjetoGuiado.genruntimeconfig.cache
+/home/guipicasso/test/ProjetoGuiado/obj/Debug/net8.0/ref/ProjetoGuiado.dll
